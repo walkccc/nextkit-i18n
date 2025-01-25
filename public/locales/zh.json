@@ -1,0 +1,41 @@
+{
+  "marketing": {
+    "title": "使用 NextKit 在幾分鐘內打造您的 SaaS",
+    "description": "深入了解 NextJS 模板 – 您的工具包，用於打造 SaaS、AI 奇蹟或任何酷炫的網頁應用，並快速賺取您的第一筆在線收入！",
+    "get-nextkit": "取得 NextKit",
+    "view-on-github": "在 GitHub 上查看",
+    "features": {
+      "title": "功能",
+      "description": "探索 NextKit 的最新功能和教程。",
+      "nextjs": "Next.js 15",
+      "nextjs-description": "App dir, Routing, Layouts, Loading UI 和 API routes.",
+      "react": "React 19",
+      "react-description": "服務端和客戶端組件。使用 hook。",
+      "database": "資料庫",
+      "database-description": "使用 Prisma 的 ORM 並部署在 Neon.tech 上。",
+      "components": "組件",
+      "components-description": "使用 shadcn/ui 構建的 UI 組件，並使用 Tailwind CSS 進行樣式設計。",
+      "authentication": "身份驗證",
+      "authentication-description": "使用 NextAuth.js 和 middleware 進行身份驗證。",
+      "subscriptions": "訂閱",
+      "subscriptions-description": "使用 Stripe API 進行免費和付費訂閱管理。",
+      "blog": "NextKit 還包括一個使用 Velite 和 MDX 構建的部落格和功能齊全的文檔網站。"
+    },
+    "boost": {
+      "title": "快速提升您的應用程式到下一個級別，並觀看收入滾滾而來！",
+      "ad-1": "像專業人士一樣快速完成用戶登錄、付款和電子郵件。",
+      "ad-2": "花更少的時間處理 API，更多時間專注於您的創業傑作。",
+      "ad-3": "NextKit 為您提供完美的樣板，以光速啟動！"
+    }
+  },
+  "navbar": {
+    "menu": "選單",
+    "login": "登入",
+    "navItems": {
+      "features": "功能",
+      "pricing": "價格",
+      "demo": "演示",
+      "documentation": "文檔"
+    }
+  }
+}

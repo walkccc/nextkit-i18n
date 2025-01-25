@@ -1,0 +1,41 @@
+{
+  "marketing": {
+    "title": "Build your SaaS in minutes with NextKit",
+    "description": "Dive into the NextJS boilerplate – your toolkit for crafting SaaS, AI wonders, or any cool web app, and speedily pocket your first online bucks!",
+    "get-nextkit": "Get NextKit",
+    "view-on-github": "View on GitHub",
+    "features": {
+      "title": "Features",
+      "description": "Explore the latest features and tutorials on NextKit.",
+      "nextjs": "Next.js 15",
+      "nextjs-description": "App dir, Routing, Layouts, Loading UI 和 API routes.",
+      "react": "React 19",
+      "react-description": "Server and Client Components. Use hook.",
+      "database": "Database",
+      "database-description": "ORM using Prisma and deployed on Neon.tech.",
+      "components": "Components",
+      "components-description": "UI components built using shadcn/ui and styled with Tailwind CSS.",
+      "authentication": "Authentication",
+      "authentication-description": "Authentication using NextAuth.js and middlewares.",
+      "subscriptions": "Subscriptions",
+      "subscriptions-description": "Free and paid subscriptions using Stripe.",
+      "blog": "NextKit also includes a blog and a full-featured documentation site built using Velite and MDX."
+    },
+    "boost": {
+      "title": "Boost your app to the next level in a flash and watch the $$ roll in!",
+      "ad-1": "Whiz through user logins, payments, and emails like a pro.",
+      "ad-2": "Spend less time wrangling APIs and more on your startup masterpiece.",
+      "ad-3": "NextKit hands you the perfect boilerplate to launch at warp speed!"
+    }
+  },
+  "navbar": {
+    "menu": "Menu",
+    "login": "Login",
+    "navItems": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "demo": "Demo",
+      "documentation": "Documentation"
+    }
+  }
+}
